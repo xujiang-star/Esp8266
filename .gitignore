@@ -1,9 +1,11 @@
 # IDE
 .idea/
+**/.idea/
 
 # 编译产物
 build/
 cmake-build-debug-espidf/
+
 
 # ESP-IDF 依赖
 managed_components/
